@@ -1,0 +1,6 @@
+{
+  "name": "TWICE Member Matching Game",
+  "description": "一個精美且互動性十足的 TWICE 成員介紹與趣味「猜猜樂」小遊戲！包含詳細成員介紹、代表色、聲音特徵、個人特質，以及可累積積分、具有多種玩法的猜猜樂測驗，挑戰您的 ONCE 指數！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

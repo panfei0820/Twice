@@ -1,0 +1,500 @@
+[336273]: oveEventListener("scroll",m)},[]);const d=[{name:"成員 Roster",href:"#members"},{name:"音樂 Discography",h
+[336308]: onst d=[{name:"成員 Roster",href:"#members"},{name:"音樂 Discography",href:"#discography"},{name:"重要時刻 Mil
+[336352]: name:"音樂 Discography",href:"#discography"},{name:"重要時刻 Milestone",href:"#timeline"},{name:"周邊商品 Merch Sh
+[336393]: },{name:"重要時刻 Milestone",href:"#timeline"},{name:"周邊商品 Merch Shop",href:"#merchandise"},{name:"關於 About"
+[336438]: ame:"周邊商品 Merch Shop",href:"#merchandise"},{name:"關於 About",href:"#about"}];return g.jsxs("nav",{id:"m
+[340260]: wider",children:[g.jsx(io,{className:"w-4 h-4"}),"查看我的購物車 (",l,")"]})]})]})}function ew(){return g.jsxs("se
+[343286]: -400/60 transform hover:-translate-y-1",children:"探索成員 Profiles"}),g.jsx("a",{href:"#merchandise",classN
+[343616]: -translate-y-1 flex items-center gap-2",children:"周邊商品 Official Shop"})]})]}),g.jsx("div",{className:"ab
+[343834]: icense-Identifier: Apache-2.0  */const nw=[{name:"娜璉",nameEn:"NAYEON",color:"#60d4f0",emoji:"🐰",role:
+[343887]: ,nameEn:"NAYEON",color:"#60d4f0",emoji:"🐰",role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",heigh
+[343892]: En:"NAYEON",color:"#60d4f0",emoji:"🐰",role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",height:"163 
+[343907]: or:"#60d4f0",emoji:"🐰",role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",height:"163 cm",bloodType
+[343926]: "🐰",role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",height:"163 cm",bloodType:"A型",mbti:"ISTP",
+[343928]: �",role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",height:"163 cm",bloodType:"A型",mbti:"ISTP",bi
+[343931]: role:"主唱 · 形象擔當",country:"韓國",birthdate:"1995年9月22日",height:"163 cm",bloodType:"A型",mbti:"ISTP",bio:"
+[343962]: irthdate:"1995年9月22日",height:"163 cm",bloodType:"A型",mbti:"ISTP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《I
+[343982]: ",height:"163 cm",bloodType:"A型",mbti:"ISTP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。20
+[343996]: cm",bloodType:"A型",mbti:"ISTP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月
+[343998]: ",bloodType:"A型",mbti:"ISTP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，J
+[344001]: loodType:"A型",mbti:"ISTP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertain
+[344022]: STP",bio:"隊內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組
+[344033]: 內擔任領唱及領舞。2022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計
+[344043]: 022年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月
+[344046]: 年6月24日以首張個人迷你專輯《IM NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。
+[344065]: NAYEON》作為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，
+[344073]: 為團內第一位Solo出道的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內
+[344085]: 的成員。2013年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX
+[344093]: 年12月，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一
+[344097]: ，JYP Entertainment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"
+[344110]: nment曾計劃於2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"https://h
+[344119]: 2014年推出女子組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"https://hips.he
+[344128]: 組合6MIX，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"https://hips.hearstapps
+[344133]: X，並預計最快會在4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"https://hips.hearstapps.com/h
+[344142]: 4月面世。但由於有部分成員離開公司，出道計劃被迫重整，並且未能於2014年內推出。娜璉為原定6MIX成員之一。",imageUrl:"https://hips.hearstapps.com/hmg-prod/
+[344276]: op=0.498xw:1.00xh;0.502xw,0&resize=640:*"},{name:"定延",nameEn:"JEONGYEON",color:"#7ed957",emoji:"🐱",ro
+[344332]: meEn:"JEONGYEON",color:"#7ed957",emoji:"🐱",role:"領唱",country:"韓國",birthdate:"1996年11月1日",height:"168 
+[344345]: ON",color:"#7ed957",emoji:"🐱",role:"領唱",country:"韓國",birthdate:"1996年11月1日",height:"168 cm",bloodType
+[344364]: ,emoji:"🐱",role:"領唱",country:"韓國",birthdate:"1996年11月1日",height:"168 cm",bloodType:"O型",mbti:"ISFJ",
+[344367]: oji:"🐱",role:"領唱",country:"韓國",birthdate:"1996年11月1日",height:"168 cm",bloodType:"O型",mbti:"ISFJ",bio
+[344369]: i:"🐱",role:"領唱",country:"韓國",birthdate:"1996年11月1日",height:"168 cm",bloodType:"O型",mbti:"ISFJ",bio:"
+[344400]: irthdate:"1996年11月1日",height:"168 cm",bloodType:"O型",mbti:"ISFJ",bio:"俞定延（Yoo Jeong-Yeon），擁有獨具一格的多才藝和
+[344420]: ",height:"168 cm",bloodType:"O型",mbti:"ISFJ",bio:"俞定延（Yoo Jeong-Yeon），擁有獨具一格的多才藝和中性帥氣魅力。以深厚溫慢的歌喉與冷靜沉著的性
+[344440]: oodType:"O型",mbti:"ISFJ",bio:"俞定延（Yoo Jeong-Yeon），擁有獨具一格的多才藝和中性帥氣魅力。以深厚溫慢的歌喉與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的
+[344458]: "ISFJ",bio:"俞定延（Yoo Jeong-Yeon），擁有獨具一格的多才藝和中性帥氣魅力。以深厚溫慢的歌喉與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONC
+[344479]: eong-Yeon），擁有獨具一格的多才藝和中性帥氣魅力。以深厚溫慢的歌喉與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛
+[344496]: 的多才藝和中性帥氣魅力。以深厚溫慢的歌喉與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參
+[344508]: 以深厚溫慢的歌喉與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常
+[344516]: 與冷靜沉著的性格深受喜愛。她也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常春藤之星獎",ima
+[344530]: 也是一個極富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常春藤之星獎",imageUrl:"htt
+[344535]: 富同理心且溫暖的團員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常春藤之星獎",imageUrl:"https://s.
+[344544]: 員，被成員公稱為照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常春藤之星獎",imageUrl:"https://s.yimg.com/n
+[344552]: 照顧大家的「團體暖心支柱」，在舞台上始終帶給 ONCE 無限力量。小時候曾參加JYP娛樂的徵選落榜，之後再次參加試鏡得到了常春藤之星獎",imageUrl:"https://s.yimg.com/ny/api/res/1.2/mbo7
+[344816]: o",nameEn:"MOMO",color:"#ff8fab",emoji:"🐵",role:"主領舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日
+[344822]: eEn:"MOMO",color:"#ff8fab",emoji:"🐵",role:"主領舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日",hei
+[344844]: fab",emoji:"🐵",role:"主領舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日",height:"162 cm",bloodType
+[344863]: e:"主領舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日",height:"162 cm",bloodType:"A型",mbti:"INFP",
+[344866]: 主領舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日",height:"162 cm",bloodType:"A型",mbti:"INFP",bio
+[344868]: 舞 · 副唱 · Rapper",country:"日本",birthdate:"1996年11月9日",height:"162 cm",bloodType:"A型",mbti:"INFP",bio:"
+[344899]: irthdate:"1996年11月9日",height:"162 cm",bloodType:"A型",mbti:"INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 
+[344919]: ",height:"162 cm",bloodType:"A型",mbti:"INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 M
+[344935]: ",bloodType:"A型",mbti:"INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是
+[344942]: Type:"A型",mbti:"INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天
+[344950]: ",mbti:"INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她
+[344958]: INFP",bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的
+[344963]: ,bio:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力
+[344966]: o:"平井桃（Hirai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TW
+[344976]: ai Momo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替
+[344981]: mo），來自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核
+[344986]: 自日本京都。是 K-pop 業界公認最強的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《
+[345006]: 的「舞蹈機器」之一。舞台上的 Momo 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八
+[345024]: o 霸氣四射、舞技精湛，私底下卻是個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 D
+[345041]: 個天然呆又極愛美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Q
+[345048]: 美食的可愛少女。她流暢強烈的舞蹈力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Mo
+[345064]: 力量為 TWICE 注入了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能
+[345076]: 了無可替代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他
+[345080]: 代的能量核心。2015年參與Mnet生存實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他七位成員，
+[345100]: 實境節目《SIXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他七位成員，在最後一集和子瑜成為追加成員之一。"
+[345106]: IXTEEN》，為第八位公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他七位成員，在最後一集和子瑜成為追加成員之一。",imageUrl:"http
+[345118]: 公開預告的成員，稱號是「全體認證 Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他七位成員，在最後一集和子瑜成為追加成員之一。",imageUrl:"https://preview.redd
+[345134]:  Dancing Queen」。雖然Momo在第四個任務中遭到淘汰，但因舞蹈實力能補足其他七位成員，在最後一集和子瑜成為追加成員之一。",imageUrl:"https://preview.redd.it/230716-momo-i
+[345386]: a",nameEn:"SANA",color:"#c084fc",emoji:"🦊",role:"副唱",country:"日本",birthdate:"1996年12月29日",height:"164
+[345399]: NA",color:"#c084fc",emoji:"🦊",role:"副唱",country:"日本",birthdate:"1996年12月29日",height:"164 cm",bloodTyp
+[345418]: ,emoji:"🦊",role:"副唱",country:"日本",birthdate:"1996年12月29日",height:"164 cm",bloodType:"B型",mbti:"ENFP"
+[345421]: oji:"🦊",role:"副唱",country:"日本",birthdate:"1996年12月29日",height:"164 cm",bloodType:"B型",mbti:"ENFP",bi
+[345424]: :"🦊",role:"副唱",country:"日本",birthdate:"1996年12月29日",height:"164 cm",bloodType:"B型",mbti:"ENFP",bio:"
+[345455]: rthdate:"1996年12月29日",height:"164 cm",bloodType:"B型",mbti:"ENFP",bio:"湊崎紗夏（Minatozaki Sana），來自日本大阪。是韓
+[345475]: ",height:"164 cm",bloodType:"B型",mbti:"ENFP",bio:"湊崎紗夏（Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員
+[345497]: dType:"B型",mbti:"ENFP",bio:"湊崎紗夏（Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy 
+[345504]: B型",mbti:"ENFP",bio:"湊崎紗夏（Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球
+[345516]: FP",bio:"湊崎紗夏（Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光
+[345526]: 崎紗夏（Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣
+[345530]: Minatozaki Sana），來自日本大阪。是韓國女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」
+[345557]: 女子團體TWICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有
+[345562]: WICE及其分隊MISAMO的成員，在隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP
+[345581]: 隊內擔任副唱以一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet
+[345588]: 一句傳奇撒嬌「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實
+[345594]: 「Shy Shy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SI
+[345600]: hy Shy」風靡全球。散發著天然的陽光元氣及獨特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SIXTEEN》，第二位公開真面目與預告的成
+[345624]: 特的嬌媚氣息，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SIXTEEN》，第二位公開真面目與預告的成員。",imag
+[345630]: ，是名副其實的「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SIXTEEN》，第二位公開真面目與預告的成員。",imageUrl:"
+[345637]: 「社交小蝴蝶」和快樂源泉，無論在哪裡都能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SIXTEEN》，第二位公開真面目與預告的成員。",imageUrl:"https://encry
+[345656]: 能帶給所有人融化的治癒笑容。2015年參與JYP娛樂與Mnet合作的生存實境節目《SIXTEEN》，第二位公開真面目與預告的成員。",imageUrl:"https://encrypted-tbn0.gstatic.com/im
+[345785]: GcQqXh_Htq6oc7fl5FJRm-2Cstt50DPFv34qmw&s"},{name:"志效",nameEn:"JIHYO",color:"#ffaa31",emoji:"🦄",role:"
+[345837]: ",nameEn:"JIHYO",color:"#ffaa31",emoji:"🦄",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"
+[345842]: eEn:"JIHYO",color:"#ffaa31",emoji:"🦄",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"162 c
+[345855]: olor:"#ffaa31",emoji:"🦄",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"162 cm",bloodType:
+[345874]: i:"🦄",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"162 cm",bloodType:"O型",mbti:"ESTP",b
+[345876]: "🦄",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"162 cm",bloodType:"O型",mbti:"ESTP",bio
+[345878]: �",role:"隊長 · 主唱",country:"韓國",birthdate:"1997年2月1日",height:"162 cm",bloodType:"O型",mbti:"ESTP",bio:"
+[345909]: birthdate:"1997年2月1日",height:"162 cm",bloodType:"O型",mbti:"ESTP",bio:"朴志效（Park Ji-Hyo），TWICE 的隊長與核心主唱
+[345929]: ",height:"162 cm",bloodType:"O型",mbti:"ESTP",bio:"朴志效（Park Ji-Hyo），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱
+[345952]: Type:"O型",mbti:"ESTP",bio:"朴志效（Park Ji-Hyo），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的
+[345961]: ,mbti:"ESTP",bio:"朴志效（Park Ji-Hyo），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿
+[345980]: 志效（Park Ji-Hyo），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深
+[345988]: Ji-Hyo），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與
+[345994]: ），TWICE 的隊長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。
+[346004]: 長與核心主唱。擁有超過十年的極致深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒
+[346020]: 深厚練習生訓練經驗，歌唱爆發力驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生
+[346035]: 驚人、穿透力極佳，是代表性的頂級歌姬。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計
+[346053]: 。她充滿強大的領袖魅力與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7
+[346064]: 與奉獻精神，在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生
+[346070]: 在舞台上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年
+[346073]: 上歌聲與舞姿都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習
+[346079]: 都元氣滿滿，是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imag
+[346085]: 是深得全員依賴與尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"ht
+[346093]: 尊敬的卓越領導核心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"https://hi
+[346101]: 心。小時候因長得像混血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"https://hips.hearsta
+[346111]: 血兒，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"https://hips.hearstapp
+[346113]: ，當過模特兒，也在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"https://hips.hearstapps.com/h
+[346121]: 在8歲時由JYP簽為練習生，與宣美同時簽約。當時編入演藝部，計劃後來以演員出道，是7年演員練習生，3年歌唱練習生。",imageUrl:"https://hips.hearstapps.com/hmg-prod/
+[346324]: a",nameEn:"MINA",color:"#31b3ff",emoji:"🐧",role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height
+[346329]: meEn:"MINA",color:"#31b3ff",emoji:"🐧",role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height:"163 
+[346343]: lor:"#31b3ff",emoji:"🐧",role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height:"163 cm",bloodType
+[346362]: :"🐧",role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height:"163 cm",bloodType:"A型",mbti:"ISFP",
+[346364]: 🐧",role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height:"163 cm",bloodType:"A型",mbti:"ISFP",bi
+[346367]: ,role:"副唱 · 主領舞",country:"日本",birthdate:"1997年3月24日",height:"163 cm",bloodType:"A型",mbti:"ISFP",bio:"
+[346398]: irthdate:"1997年3月24日",height:"163 cm",bloodType:"A型",mbti:"ISFP",bio:"名井南（Myoui Mina），來自日本神戶，出生於美國。自幼
+[346418]: ",height:"163 cm",bloodType:"A型",mbti:"ISFP",bio:"名井南（Myoui Mina），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上
+[346434]: ",bloodType:"A型",mbti:"ISFP",bio:"名井南（Myoui Mina），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，
+[346441]: Type:"A型",mbti:"ISFP",bio:"名井南（Myoui Mina），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音
+[346447]: A型",mbti:"ISFP",bio:"名井南（Myoui Mina），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高
+[346467]: "名井南（Myoui Mina），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。
+[346480]: na），來自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年
+[346485]: 自日本神戶，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP
+[346490]: ，出生於美國。自幼擁有十一年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，M
+[346503]: 年的古典芭蕾舞專業訓練底子，在舞台上氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[
+[346521]: 氣質獨具優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]
+[346525]: 優雅高貴。溫和內涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JY
+[346533]: 涵、謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探
+[346535]: 謙遜內斂，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘
+[346539]: ，溫暖沉靜的音色與輕盈身姿，被公認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《Fi
+[346555]: 認為是隊內極具典雅與高貴美感的「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2
+[346570]: 「黑天鵝」代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於201
+[346575]: 代言人。2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2
+[346579]: 2013年，於JYP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下
+[346587]: YP娛樂全球試鏡的最後一天，Mina在日本大阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP
+[346609]: 阪市梅田與母親購物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"h
+[346617]: 物時[註 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"htt
+[346622]: 3]，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://
+[346624]: ，被JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://im
+[346626]: JYP娛樂的星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://img.lt
+[346632]: 星探發掘，因試鏡歌唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://img.ltn.com.tw/Up
+[346641]: 唱宇多田光的《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://img.ltn.com.tw/Upload
+[346647]: 《First Love》而合格通過試鏡。於2014年1月2日成為JYP娛樂旗下的練習生，被譽為JYP最美練習生。",imageUrl:"https://img.ltn.com.tw/Upload/style/p
+[346751]: page/2025/02/07/250207-34716-3-7u4wg.jpg"},{name:"多賢",nameEn:"DAHYUN",color:"#fdef8a",emoji:"🦅",role:
+[346804]: ,nameEn:"DAHYUN",color:"#fdef8a",emoji:"🦅",role:"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",
+[346815]: HYUN",color:"#fdef8a",emoji:"🦅",role:"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",height:"159 
+[346828]: #fdef8a",emoji:"🦅",role:"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",height:"159 cm",bloodType
+[346847]: ,role:"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",height:"159 cm",bloodType:"O型",mbti:"ISFJ",
+[346849]: ole:"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",height:"159 cm",bloodType:"O型",mbti:"ISFJ",bi
+[346852]: :"領 Rapper · 副唱",country:"韓國",birthdate:"1998年5月28日",height:"159 cm",bloodType:"O型",mbti:"ISFJ",bio:"
+[346883]: irthdate:"1998年5月28日",height:"159 cm",bloodType:"O型",mbti:"ISFJ",bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rappe
+[346903]: ",height:"159 cm",bloodType:"O型",mbti:"ISFJ",bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆
+[346926]: Type:"O型",mbti:"ISFJ",bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和
+[346936]: mbti:"ISFJ",bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴
+[346940]: :"ISFJ",bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，
+[346948]: bio:"金多賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神
+[346955]: 賢（Kim Da-Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖
+[346964]: Hyun），TWICE 的領 Rapper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年
+[346980]: apper 與副唱。因皮膚白皙無瑕，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志
+[346997]: ，被粉絲暱稱為「豆腐/Tofu」。她不僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",im
+[347016]: 僅擁有極佳的綜藝感與親和力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https
+[347028]: 力，更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn
+[347030]: 更是隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn.d
+[347032]: 隊內的卓越鋼琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn.diode
+[347038]: 琴彈奏與創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn.diodeo.jp/c
+[347042]: 創作才女，靈動跳耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn.diodeo.jp/cdn/webzi
+[347050]: 耀的眼神與溫暖靈魂是 ONCE 永遠的快樂源頭。2012年7月7日成為JYP練習生，初期跟志效一樣，編入演藝部。",imageUrl:"https://cdn.diodeo.jp/cdn/webzine/202
+[347150]: e/2020/05/20/20200520110555_qelhncwf.jpg"},{name:"彩瑛",nameEn:"CHAEYOUNG",color:"#ff3b30",emoji:"🍓",ro
+[347206]: meEn:"CHAEYOUNG",color:"#ff3b30",emoji:"🍓",role:"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",
+[347217]: OUNG",color:"#ff3b30",emoji:"🍓",role:"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",height:"159 
+[347230]: #ff3b30",emoji:"🍓",role:"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",height:"159 cm",bloodType
+[347249]: ,role:"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",height:"159 cm",bloodType:"B型",mbti:"INFP",
+[347251]: ole:"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",height:"159 cm",bloodType:"B型",mbti:"INFP",bi
+[347254]: :"主 Rapper · 副唱",country:"韓國",birthdate:"1999年4月23日",height:"159 cm",bloodType:"B型",mbti:"INFP",bio:"
+[347285]: irthdate:"1999年4月23日",height:"159 cm",bloodType:"B型",mbti:"INFP",bio:"孫彩瑛（Son Chae-Young），TWICE 的主 Ra
+[347305]: ",height:"159 cm",bloodType:"B型",mbti:"INFP",bio:"孫彩瑛（Son Chae-Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作
+[347331]: e:"B型",mbti:"INFP",bio:"孫彩瑛（Son Chae-Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。
+[347341]: i:"INFP",bio:"孫彩瑛（Son Chae-Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 
+[347348]: ",bio:"孫彩瑛（Son Chae-Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心
+[347362]:  Chae-Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特
+[347367]: -Young），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的
+[347371]: ng），TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女
+[347375]: TWICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。
+[347377]: ICE 的主 Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於20
+[347383]:  Rapper。氣質古靈精怪、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日
+[347397]: 、富有深厚藝術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練
+[347403]: 術品味與作詞才華。喜愛繪畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出G
+[347415]: 畫，被稱為「小猛獸」或「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的
+[347426]: 「草莓公主」。舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影
+[347433]: 舞台上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",i
+[347435]: 上的她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",ima
+[347437]: 她 Rapping 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",imageUr
+[347443]: ing 爆發力十足，舞台下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",imageUrl:"https://img
+[347455]: 下則是追求心靈自由、特立獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",imageUrl:"https://img.ltn.com.
+[347467]: 獨行的文藝酷女孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",imageUrl:"https://img.ltn.com.tw/Up
+[347474]: 孩。彩瑛於2012年6月6日通過JYP娛樂的甄選並成為練習生；練習生時期曾演出GOT7及miss A的音樂錄影帶。",imageUrl:"https://img.ltn.com.tw/Upload/ent/pag
+[347570]: ad/ent/page/800/2026/03/26/5383139_1.jpg"},{name:"子瑜",nameEn:"TZUYU",color:"#4a90e2",emoji:"🦌",role:"
+[347622]: ",nameEn:"TZUYU",color:"#4a90e2",emoji:"🦌",role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",heigh
+[347627]: eEn:"TZUYU",color:"#4a90e2",emoji:"🦌",role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",height:"172 
+[347642]: or:"#4a90e2",emoji:"🦌",role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",height:"172 cm",bloodType
+[347661]: "🦌",role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",height:"172 cm",bloodType:"A型",mbti:"INFJ",
+[347663]: �",role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",height:"172 cm",bloodType:"A型",mbti:"INFJ",bi
+[347666]: role:"副唱 · 忙內擔當",country:"台灣",birthdate:"1999年6月14日",height:"172 cm",bloodType:"A型",mbti:"INFJ",bio:"
+[347697]: irthdate:"1999年6月14日",height:"172 cm",bloodType:"A型",mbti:"INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵
+[347717]: ",height:"172 cm",bloodType:"A型",mbti:"INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃
+[347734]: ,bloodType:"A型",mbti:"INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙
+[347741]: ype:"A型",mbti:"INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺
+[347751]: bti:"INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美
+[347756]: INFJ",bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名
+[347762]: bio:"周子瑜（Chou Tzu-Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2
+[347779]: -Yu），來自台灣台南，是團體中最受寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展
+[347797]: 寵愛的「黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南
+[347801]: 黃金忙內」與門面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，
+[347808]: 面擔當。擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11
+[347812]: 擁有如精緻洋娃娃般的完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前
+[347822]: 完美比例身材、溫柔內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後
+[347831]: 內斂的清徹双眼與謙遜善良的性格，曾榮膺「全球最美臉孔」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",
+[347857]: 」第一名，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",ima
+[347861]: ，陪伴無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageU
+[347864]: 無數 ONCE 溫馨前行。2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageUrl:"https://hi
+[347877]: 2012年參與美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageUrl:"https://hips.he
+[347884]: 美思表演藝術中心的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageUrl:"https://hips.hearstapps.c
+[347892]: 的成果展以及臺南二中畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageUrl:"https://hips.hearstapps.com/hmg-pro
+[347902]: 畢業晚會，同年11月15日前往韓國參加兩次甄選後，正式成為JYP娛樂公司練習生，練習生生涯總共大約3年。",imageUrl:"https://hips.hearstapps.com/hmg-prod/
+[348194]: b4/TWICE_THE_STORY_BEGINS.jpg",description:"TWICE 的震撼出道首張迷你專輯，開啟了橫掃亞洲乃至世界的傳奇女團序幕。",songs:[{name:"Like Ooh-Ahh (
+[348206]: _STORY_BEGINS.jpg",description:"TWICE 的震撼出道首張迷你專輯，開啟了橫掃亞洲乃至世界的傳奇女團序幕。",songs:[{name:"Like Ooh-Ahh (優雅地 - 主打歌)",url:"ht
+[348255]: ，開啟了橫掃亞洲乃至世界的傳奇女團序幕。",songs:[{name:"Like Ooh-Ahh (優雅地 - 主打歌)",url:"https://www.youtube.com/watch?v=0rtV
+[348261]: 亞洲乃至世界的傳奇女團序幕。",songs:[{name:"Like Ooh-Ahh (優雅地 - 主打歌)",url:"https://www.youtube.com/watch?v=0rtV5esQT6
+[348325]: ps://www.youtube.com/watch?v=0rtV5esQT6I"},{name:"再一次 (Do It Again)",url:"https://www.youtube.com/watch
+[348402]: ps://www.youtube.com/watch?v=kSsAj90BSBk"},{name:"瘋了吧 (I Think I'm Crazy)",url:"https://www.youtube.com
+[348492]: w.youtube.com/watch?v=KNHRIqklQDQ"},{name:"Truth (真實)",url:"https://www.youtube.com/watch?v=ChHrGbAueH
+[348889]: 1.JPG/250px-TWICEcoaster_LANE_1.JPG",description:"奠定 TWICE 國民女團地位之作。主打歌《TT》其哭臉舞蹈手勢引發了震撼世界的模仿熱潮。",songs
+[348898]: px-TWICEcoaster_LANE_1.JPG",description:"奠定 TWICE 國民女團地位之作。主打歌《TT》其哭臉舞蹈手勢引發了震撼世界的模仿熱潮。",songs:[{name:"TT (主打
+[348907]: oaster_LANE_1.JPG",description:"奠定 TWICE 國民女團地位之作。主打歌《TT》其哭臉舞蹈手勢引發了震撼世界的模仿熱潮。",songs:[{name:"TT (主打歌)",
+[348914]: LANE_1.JPG",description:"奠定 TWICE 國民女團地位之作。主打歌《TT》其哭臉舞蹈手勢引發了震撼世界的模仿熱潮。",songs:[{name:"TT (主打歌)",url:"https://www.youtub
+[348954]: 之作。主打歌《TT》其哭臉舞蹈手勢引發了震撼世界的模仿熱潮。",songs:[{name:"TT (主打歌)",url:"https://www.youtube.com/watch?v=ePpPVE-GGJ
+[349626]: %B4%EC%8A%A4%29_Signal_%28EP%29.jpg",description:"由總製作人朴軫永親自打造，展現九位超能力學院少女渴望傳遞浪漫信號的魔性舞曲。",songs:[{name:"SIGNAL (
+[349639]: 29_Signal_%28EP%29.jpg",description:"由總製作人朴軫永親自打造，展現九位超能力學院少女渴望傳遞浪漫信號的魔性舞曲。",songs:[{name:"SIGNAL (主打歌)",url:"https://www.yo
+[349688]: ，展現九位超能力學院少女渴望傳遞浪漫信號的魔性舞曲。",songs:[{name:"SIGNAL (主打歌)",url:"https://www.youtube.com/watch?v=VQtonf1fv_
+[350290]: xoVSlPl_wioYn85FgztLMx5MFRgudmsoA&s",description:"探索神秘而甜美的愛情。MV 中成員逗趣致敬了多部世界名作電影，引爆強烈反響。",songs:[{name:"What i
+[350304]: 5FgztLMx5MFRgudmsoA&s",description:"探索神秘而甜美的愛情。MV 中成員逗趣致敬了多部世界名作電影，引爆強烈反響。",songs:[{name:"What is Love? (主打歌)",url:"
+[350321]: oA&s",description:"探索神秘而甜美的愛情。MV 中成員逗趣致敬了多部世界名作電影，引爆強烈反響。",songs:[{name:"What is Love? (主打歌)",url:"https:/
+[350359]: 致敬了多部世界名作電影，引爆強烈反響。",songs:[{name:"What is Love? (主打歌)",url:"https://www.youtube.com/watch?v=i0p1bmr0Em
+[350909]: ia/zh/c/ca/TWICE-Eyes_wide_open.jpg",description:"第二張韓語正規專輯，展現了高超精湛的復古 Synthetic-Pop（合成器流行樂）前衛美感。",songs:[{na
+[350919]: /TWICE-Eyes_wide_open.jpg",description:"第二張韓語正規專輯，展現了高超精湛的復古 Synthetic-Pop（合成器流行樂）前衛美感。",songs:[{name:"I CAN'T
+[350944]: ",description:"第二張韓語正規專輯，展現了高超精湛的復古 Synthetic-Pop（合成器流行樂）前衛美感。",songs:[{name:"I CAN'T STOP ME (主打歌)",url:"
+[350951]: iption:"第二張韓語正規專輯，展現了高超精湛的復古 Synthetic-Pop（合成器流行樂）前衛美感。",songs:[{name:"I CAN'T STOP ME (主打歌)",url:"https
+[350989]: -Pop（合成器流行樂）前衛美感。",songs:[{name:"I CAN'T STOP ME (主打歌)",url:"https://www.youtube.com/watch?v=CM4CkVFmTd
+[351676]: G/250px-TWICE-BETWEEN_1%262_New.JPG",description:"寓意「ONCE & TWICE」之間不可分割的專屬密碼，充滿對粉絲九年陪伴的深情致敬與告白。",song
+[351692]: TWEEN_1%262_New.JPG",description:"寓意「ONCE & TWICE」之間不可分割的專屬密碼，充滿對粉絲九年陪伴的深情致敬與告白。",songs:[{name:"Talk that Talk 
+[351704]: New.JPG",description:"寓意「ONCE & TWICE」之間不可分割的專屬密碼，充滿對粉絲九年陪伴的深情致敬與告白。",songs:[{name:"Talk that Talk (主打歌)",url:"https:
+[351754]: 充滿對粉絲九年陪伴的深情致敬與告白。",songs:[{name:"Talk that Talk (主打歌)",url:"https://www.youtube.com/watch?v=k6jqx9kZgP
+[352403]: 8dQxjfz5yJ7U6I5Jn33VX19ylyv3DCNBA&s",description:"粉碎枷鎖、打破偏見，展現了 TWICE 更加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{na
+[352408]: fz5yJ7U6I5Jn33VX19ylyv3DCNBA&s",description:"粉碎枷鎖、打破偏見，展現了 TWICE 更加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{name:"S
+[352413]: 7U6I5Jn33VX19ylyv3DCNBA&s",description:"粉碎枷鎖、打破偏見，展現了 TWICE 更加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{name:"SET M
+[352423]: X19ylyv3DCNBA&s",description:"粉碎枷鎖、打破偏見，展現了 TWICE 更加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{name:"SET ME FREE (主打歌)"
+[352430]: 3DCNBA&s",description:"粉碎枷鎖、打破偏見，展現了 TWICE 更加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{name:"SET ME FREE (主打歌)",url:"https://w
+[352474]: 加成熟自主、酷帥且包容萬象的頂級藝術面貌。",songs:[{name:"SET ME FREE (主打歌)",url:"https://www.youtube.com/watch?v=w4cTYnOPdN
+[353052]: ikipedia/zh/c/c5/TWICE_STRATEGY.jpg",description:"第 14 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stall
+[353057]: dia/zh/c/c5/TWICE_STRATEGY.jpg",description:"第 14 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名
+[353063]: /c/c5/TWICE_STRATEGY.jpg",description:"第 14 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名曲，風靡
+[353069]: TWICE_STRATEGY.jpg",description:"第 14 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名曲，風靡全球。",songs:
+[353078]: ATEGY.jpg",description:"第 14 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名曲，風靡全球。",songs:[{name:"S
+[353107]: 張迷你專輯，於出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名曲，風靡全球。",songs:[{name:"Strategy (feat. Megan Thee S
+[353114]: 出道 9 週年之際重磅回歸！攜手美國著名歌手 Megan Thee Stallion 合作主打名曲，風靡全球。",songs:[{name:"Strategy (feat. Megan Thee Stalli
+[353173]: ngs:[{name:"Strategy (feat. Megan Thee Stallion) (主打歌)",url:"https://www.youtube.com/watch?v=Sz_wWzgh-v
+[353752]: 0053b7e5da4d28431159aa875094e4",description:"2025 年超然大作，以此專輯在各大打歌節目多次斬獲一位。全韓國歷史上榮獲打歌一位最多的傳奇女團。",songs:[{n
+[353758]: e5da4d28431159aa875094e4",description:"2025 年超然大作，以此專輯在各大打歌節目多次斬獲一位。全韓國歷史上榮獲打歌一位最多的傳奇女團。",songs:[{name:"This Is For (
+[353776]: 5094e4",description:"2025 年超然大作，以此專輯在各大打歌節目多次斬獲一位。全韓國歷史上榮獲打歌一位最多的傳奇女團。",songs:[{name:"This Is For (主打歌)",url:"https://w
+[353825]: 。全韓國歷史上榮獲打歌一位最多的傳奇女團。",songs:[{name:"This Is For (主打歌)",url:"https://www.youtube.com/watch?v=eHHQaoEW30
+[354318]: tube.com/watch?v=POxNm2NNyps"}]}],iw=[{year:"2015 年",period:"《SIXTEEN》傳奇出道",title:"極致競爭中的破繭成蝶",badge:
+[354338]: Nm2NNyps"}]}],iw=[{year:"2015 年",period:"《SIXTEEN》傳奇出道",title:"極致競爭中的破繭成蝶",badge:"里程碑",badgeStyle:"bg-pu
+[354351]: ,iw=[{year:"2015 年",period:"《SIXTEEN》傳奇出道",title:"極致競爭中的破繭成蝶",badge:"里程碑",badgeStyle:"bg-purple-600/80 text-wh
+[354370]: ,period:"《SIXTEEN》傳奇出道",title:"極致競爭中的破繭成蝶",badge:"里程碑",badgeStyle:"bg-purple-600/80 text-white",descrip
+[354429]: eStyle:"bg-purple-600/80 text-white",description:"九位成員在生存實境選秀節目《SIXTEEN》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓
+[354451]: 80 text-white",description:"九位成員在生存實境選秀節目《SIXTEEN》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-p
+[354462]: te",description:"九位成員在生存實境選秀節目《SIXTEEN》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{ye
+[354485]: 存實境選秀節目《SIXTEEN》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{year:"2016 
+[354490]: 節目《SIXTEEN》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{year:"2016 - 201
+[354500]: 》的重重考驗下脫穎而出。這個過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{year:"2016 - 2018 年",period:"
+[354514]: 過程不僅鍛煉出她們絕佳的心理素質 and 舞台能力，也讓全球 ONCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{year:"2016 - 2018 年",period:"亞洲女王時代",title:"神
+[354546]: NCE 見證了一個寫入 K-pop 歷史的超級團體誕生！"},{year:"2016 - 2018 年",period:"亞洲女王時代",title:"神曲連發 席捲全網",badge:"黃金期",ba
+[354557]:  K-pop 歷史的超級團體誕生！"},{year:"2016 - 2018 年",period:"亞洲女王時代",title:"神曲連發 席捲全網",badge:"黃金期",badgeStyle:"bg-amb
+[354572]: 生！"},{year:"2016 - 2018 年",period:"亞洲女王時代",title:"神曲連發 席捲全網",badge:"黃金期",badgeStyle:"bg-amber-600/80 tex
+[354577]: {year:"2016 - 2018 年",period:"亞洲女王時代",title:"神曲連發 席捲全網",badge:"黃金期",badgeStyle:"bg-amber-600/80 text-sla
+[354590]:  2018 年",period:"亞洲女王時代",title:"神曲連發 席捲全網",badge:"黃金期",badgeStyle:"bg-amber-600/80 text-slate-900 font-
+[354724]: TT》、《Knock Knock》、《Signal》、《Likey》、《What is Love?》等多首神級泡泡糖流行曲瘋狂屠榜，斬獲多座大賞！TWICE 正式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2
+[354740]: 》、《Signal》、《Likey》、《What is Love?》等多首神級泡泡糖流行曲瘋狂屠榜，斬獲多座大賞！TWICE 正式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2019 年",
+[354753]: ikey》、《What is Love?》等多首神級泡泡糖流行曲瘋狂屠榜，斬獲多座大賞！TWICE 正式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2019 年",period:"全球化戰略進程",
+[354764]:  is Love?》等多首神級泡泡糖流行曲瘋狂屠榜，斬獲多座大賞！TWICE 正式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2019 年",period:"全球化戰略進程",title:"北美拓展 震撼
+[354793]: 座大賞！TWICE 正式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2019 年",period:"全球化戰略進程",title:"北美拓展 震撼海外",badge:"突破",ba
+[354804]: 式確立亞洲天團地位，開啟她們不可忽視的耀眼王朝。"},{year:"2019 年",period:"全球化戰略進程",title:"北美拓展 震撼海外",badge:"突破",badgeStyle:"bg-pink
+[354820]: 忽視的耀眼王朝。"},{year:"2019 年",period:"全球化戰略進程",title:"北美拓展 震撼海外",badge:"突破",badgeStyle:"bg-pink-600/80 text-
+[354825]: 王朝。"},{year:"2019 年",period:"全球化戰略進程",title:"北美拓展 震撼海外",badge:"突破",badgeStyle:"bg-pink-600/80 text-white
+[354838]: 2019 年",period:"全球化戰略進程",title:"北美拓展 震撼海外",badge:"突破",badgeStyle:"bg-pink-600/80 text-white",descripti
+[354900]: le:"bg-pink-600/80 text-white",description:"TWICE 首次開啟大規模世界巡迴演唱會「TWICELIGHTS」，並正式登陸歐美主流舞台，與國際一流環球廠牌深入簽約協同合作，將高質量 K
+[354928]: e",description:"TWICE 首次開啟大規模世界巡迴演唱會「TWICELIGHTS」，並正式登陸歐美主流舞台，與國際一流環球廠牌深入簽約協同合作，將高質量 K-pop 的魅力推廣至無國界極致。"},{year
+[354940]: on:"TWICE 首次開啟大規模世界巡迴演唱會「TWICELIGHTS」，並正式登陸歐美主流舞台，與國際一流環球廠牌深入簽約協同合作，將高質量 K-pop 的魅力推廣至無國界極致。"},{year:"2020 - 2021 年",p
+[354958]: 界巡迴演唱會「TWICELIGHTS」，並正式登陸歐美主流舞台，與國際一流環球廠牌深入簽約協同合作，將高質量 K-pop 的魅力推廣至無國界極致。"},{year:"2020 - 2021 年",period
+[354969]: ELIGHTS」，並正式登陸歐美主流舞台，與國際一流環球廠牌深入簽約協同合作，將高質量 K-pop 的魅力推廣至無國界極致。"},{year:"2020 - 2021 年",period:"疫情時光中的溫暖守候",titl
+[355003]: 協同合作，將高質量 K-pop 的魅力推廣至無國界極致。"},{year:"2020 - 2021 年",period:"疫情時光中的溫暖守候",title:"風格蛻變 攜手與共",badge:"堅韌"
+[355014]: -pop 的魅力推廣至無國界極致。"},{year:"2020 - 2021 年",period:"疫情時光中的溫暖守候",title:"風格蛻變 攜手與共",badge:"堅韌",badgeStyle:"bg-emer
+[355033]: ,{year:"2020 - 2021 年",period:"疫情時光中的溫暖守候",title:"風格蛻變 攜手與共",badge:"堅韌",badgeStyle:"bg-emerald-600/80 te
+[355038]: r:"2020 - 2021 年",period:"疫情時光中的溫暖守候",title:"風格蛻變 攜手與共",badge:"堅韌",badgeStyle:"bg-emerald-600/80 text-wh
+[355051]: 1 年",period:"疫情時光中的溫暖守候",title:"風格蛻變 攜手與共",badge:"堅韌",badgeStyle:"bg-emerald-600/80 text-white",descri
+[355110]: Style:"bg-emerald-600/80 text-white",description:"在全球疫情肆虐的艱難時刻，TWICE 堅持不懈。推出了《More & More》、《I Can't Stop Me》、《Al
+[355129]: 00/80 text-white",description:"在全球疫情肆虐的艱難時刻，TWICE 堅持不懈。推出了《More & More》、《I Can't Stop Me》、《Alcohol-Free》
+[355134]:  text-white",description:"在全球疫情肆虐的艱難時刻，TWICE 堅持不懈。推出了《More & More》、《I Can't Stop Me》、《Alcohol-Free》等充滿成
+[355183]: 。推出了《More & More》、《I Can't Stop Me》、《Alcohol-Free》等充滿成熟都市情調及夏日溫馨的突破之作，透過線上 Live 大力治癒世界。"},{year:"2022 - 2024 年",period:
+[355203]:  Can't Stop Me》、《Alcohol-Free》等充滿成熟都市情調及夏日溫馨的突破之作，透過線上 Live 大力治癒世界。"},{year:"2022 - 2024 年",period:"全員續約
+[355213]: p Me》、《Alcohol-Free》等充滿成熟都市情調及夏日溫馨的突破之作，透過線上 Live 大力治癒世界。"},{year:"2022 - 2024 年",period:"全員續約 璀璨新世紀",titl
+[355242]: 及夏日溫馨的突破之作，透過線上 Live 大力治癒世界。"},{year:"2022 - 2024 年",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"
+[355253]: 透過線上 Live 大力治癒世界。"},{year:"2022 - 2024 年",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"進化",badgeStyle
+[355258]: Live 大力治癒世界。"},{year:"2022 - 2024 年",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"進化",badgeStyle:"bg-y
+[355272]: ,{year:"2022 - 2024 年",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"進化",badgeStyle:"bg-yellow-500/80 
+[355277]: r:"2022 - 2024 年",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"進化",badgeStyle:"bg-yellow-500/80 text-sla
+[355293]: ",period:"全員續約 璀璨新世紀",title:"展翅翱翔 締造體育館神話",badge:"進化",badgeStyle:"bg-yellow-500/80 text-slate-900 font
+[355369]: 500/80 text-slate-900 font-semibold",description:"全員不離不棄全數完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成
+[355382]: late-900 font-semibold",description:"全員不離不棄全數完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個
+[355391]: font-semibold",description:"全員不離不棄全數完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個在美國洛杉磯 SoFi
+[355401]: old",description:"全員不離不棄全數完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個在美國洛杉磯 SoFi 體育館及紐約大都會體
+[355419]: 全員不離不棄全數完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個在美國洛杉磯 SoFi 體育館及紐約大都會體育館完售開唱的女子天團。"},{year
+[355427]: 完成續約，打破 K-pop「七年魔咒」！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個在美國洛杉磯 SoFi 體育館及紐約大都會體育館完售開唱的女子天團。"},{year:"2025 年起",per
+[355446]: ！2023年全面展開「Ready To Be」超大型全球巡演，歷史性成為首個在美國洛杉磯 SoFi 體育館及紐約大都會體育館完售開唱的女子天團。"},{year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不
+[355483]: 個在美國洛杉磯 SoFi 體育館及紐約大都會體育館完售開唱的女子天團。"},{year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:
+[355495]:  體育館及紐約大都會體育館完售開唱的女子天團。"},{year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:"傳傳奇",badgeSty
+[355500]: 紐約大都會體育館完售開唱的女子天團。"},{year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:"傳傳奇",badgeStyle:"bg-b
+[355516]: 團。"},{year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:"傳傳奇",badgeStyle:"bg-blue-600/80 te
+[355521]: {year:"2025 年起",period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:"傳傳奇",badgeStyle:"bg-blue-600/80 text-whit
+[355536]: ,period:"長青傳奇 永恆的閃亮星辰",title:"不忘初心 奔向無限可能",badge:"傳傳奇",badgeStyle:"bg-blue-600/80 text-white",descripti
+[355599]: le:"bg-blue-600/80 text-white",description:"TWICE 已然成為世界樂壇中長期優質運營、愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒
+[355615]: 80 text-white",description:"TWICE 已然成為世界樂壇中長期優質運營、愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來
+[355620]: xt-white",description:"TWICE 已然成為世界樂壇中長期優質運營、愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬
+[355631]: escription:"TWICE 已然成為世界樂壇中長期優質運營、愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬於她們與 ONCE 的永恆
+[355661]: 質運營、愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬於她們與 ONCE 的永恆篇章！"}],yo=[{id:"m1",n
+[355665]: 愛護粉絲、實力不減的長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬於她們與 ONCE 的永恆篇章！"}],yo=[{id:"m1",name:"CANDY
+[355675]: 長青代名詞。九顆精緻美麗的音色匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬於她們與 ONCE 的永恆篇章！"}],yo=[{id:"m1",name:"CANDYBONG ♾️ (O
+[355690]: 匯聚成「One in a Million」的光芒，朝向未來無限的奇蹟，繼續抒寫屬於她們與 ONCE 的永恆篇章！"}],yo=[{id:"m1",name:"CANDYBONG ♾️ (Official Lig
+[355770]: ANDYBONG ♾️ (Official Light Stick)",nameZh:"TWICE 官方手燈三代 CANDYBONG ♾️",priceUsd:49.99,priceTwd:1580,catego
+[355890]: ",emoji:"🍭",status:"In Stock",description:"TWICE 最新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式
+[355909]: :"In Stock",description:"TWICE 最新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神
+[355914]: Stock",description:"TWICE 最新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",deta
+[355926]: iption:"TWICE 最新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",details:["
+[355928]: tion:"TWICE 最新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書"
+[355941]: 新的官方應援手燈 Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 
+[355950]: Infinity 璀璨版本，搭載流暢的多彩 LED 燈、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高
+[355977]: 、手機藍牙連線自訂變色功能、無線中控場控模式。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電
+[355992]: 線中控場控模式。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備
+[355999]: 。演唱會現場不可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],pur
+[356006]: 可或缺的應援神器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],purchaseUrl:
+[356013]: 器！",details:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],purchaseUrl:"https://th
+[356022]: ls:["配備專屬手繩與原裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],purchaseUrl:"https://thejypsho
+[356035]: 裝說明書","藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],purchaseUrl:"https://thejypshop.com/produ
+[356041]: "藍牙 5.0 手機 App 互聯控色","高透光率彩珠面板，旋轉霓光效果","AAA 電池供電 (需自備)"],purchaseUrl:"https://thejypshop.com/product/de
+[356185]: :"TWICE 14th Mini Album [STRATEGY]",nameZh:"TWICE 第14張迷你專輯《STRATEGY》實體唱片 (全套3版合購)",priceUsd:54,priceT
+[356188]: WICE 14th Mini Album [STRATEGY]",nameZh:"TWICE 第14張迷你專輯《STRATEGY》實體唱片 (全套3版合購)",priceUsd:54,priceTwd:1680
+[356203]: Album [STRATEGY]",nameZh:"TWICE 第14張迷你專輯《STRATEGY》實體唱片 (全套3版合購)",priceUsd:54,priceTwd:1680,category:"alb
+[356209]: [STRATEGY]",nameZh:"TWICE 第14張迷你專輯《STRATEGY》實體唱片 (全套3版合購)",priceUsd:54,priceTwd:1680,category:"album",
+[356212]: RATEGY]",nameZh:"TWICE 第14張迷你專輯《STRATEGY》實體唱片 (全套3版合購)",priceUsd:54,priceTwd:1680,category:"album",emoj
+[356318]: 💿",status:"Limited Edition",description:"TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。
+[356327]: s:"Limited Edition",description:"TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",det
+[356338]: Edition",description:"TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 
+[356342]: ion",description:"TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版
+[356352]: iption:"TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)
+[356359]: "TWICE 24年底重磅回歸之作，包含全套 A/B/C 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)
+[356388]: 三版本。內附巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報
+[356394]: 巨幅寫真精裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","
+[356399]: 裝冊、燙金珍藏透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan
+[356406]: 透卡、全體成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee
+[356411]: 成員九選五自拍隨機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallio
+[356419]: 機拍立得相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallion 合作曲及多
+[356423]: 相卡。",details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallion 合作曲及多首未
+[356428]: details:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallion 合作曲及多首未公開獨家音軌"],
+[356434]: s:["精裝 CD 寫真書 (每版約 88 頁)","隨機小卡 (45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallion 合作曲及多首未公開獨家音軌"],purchaseUrl
+[356467]: 45款隨機5款)","限量預購禮：巨幅摺疊海報與貼紙組","Megan Thee Stallion 合作曲及多首未公開獨家音軌"],purchaseUrl:"https://thejypshop.com/product/twi
+[356723]: O BE World Tour Hoodie",nameZh:"TWICE「READY TO BE」世界巡迴演唱會 漸層印花保暖帽T",priceUsd:65,priceTwd:1980,category:"app
+[356731]: ld Tour Hoodie",nameZh:"TWICE「READY TO BE」世界巡迴演唱會 漸層印花保暖帽T",priceUsd:65,priceTwd:1980,category:"apparel",em
+[356828]: pparel",emoji:"🧥",status:"In Stock",description:"官方正版世界巡迴「READY TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 
+[356849]: atus:"In Stock",description:"官方正版世界巡迴「READY TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花
+[356854]: "In Stock",description:"官方正版世界巡迴「READY TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100
+[356869]: ription:"官方正版世界巡迴「READY TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純
+[356874]: on:"官方正版世界巡迴「READY TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前
+[356891]: Y TO BE」限定帽T，採用高品質純棉空氣層布料製成，親膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","
+[356920]: 膚透氣，配以經典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀
+[356927]: 典極簡淡雅粉紫色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花",
+[356934]: 色 Logo 與後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女
+[356942]: 後背漸層巡迴城市印花。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女皆可休閒百搭"]
+[356952]: 。",details:["100% 重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女皆可休閒百搭"],purcha
+[356969]:  重磅純美棉製，版型挺括","前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女皆可休閒百搭"],purchaseUrl:"https://thejypsh
+[356982]: ,"前置實用袋鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女皆可休閒百搭"],purchaseUrl:"https://thejypshop.com/pr
+[356989]: 鼠兜，可調節連帽抽繩","後背經典「READY TO BE」完整世界城市紀念印花","落肩寬鬆剪裁，男女皆可休閒百搭"],purchaseUrl:"https://thejypshop.com/product/twi
+[357228]: me:"TWICE Lovelys Mascot Plush Toy",nameZh:"TWICE 成員專屬專用造型動物玩偶公仔 (Lovelys 首選系列)",priceUsd:28,priceTwd:880,category
+[357252]:  Plush Toy",nameZh:"TWICE 成員專屬專用造型動物玩偶公仔 (Lovelys 首選系列)",priceUsd:28,priceTwd:880,category:"mascot",emoj
+[357345]: ascot",emoji:"🧸",status:"Pre-Order",description:"代表全體九位成員極具代表性的 9 色官方吉祥物玩偶（Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！"
+[357362]: ,status:"Pre-Order",description:"代表全體九位成員極具代表性的 9 色官方吉祥物玩偶（Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！",details:["
+[357379]: r",description:"代表全體九位成員極具代表性的 9 色官方吉祥物玩偶（Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！",details:["可選款式：NaLove
+[357383]: escription:"代表全體九位成員極具代表性的 9 色官方吉祥物玩偶（Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！",details:["可選款式：NaLovely, JeongLo
+[357393]: :"代表全體九位成員極具代表性的 9 色官方吉祥物玩偶（Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！",details:["可選款式：NaLovely, JeongLovely, MoLovely,
+[357420]: （Lovelys 系列）！柔軟親膚短毛絨填充，大小超適合手捧與外出野餐外拍！",details:["可選款式：NaLovely, JeongLovely, MoLovely, SaLovely, JiLove
+[357522]: vely, MiLovely, DaLovely, ChaeLovely, TzuLovely","材質：環保超柔親膚抗菌毛絨","高約 22cm 經典便攜擺件尺寸","附帶成員專屬英文燙印吊牌"],pu
+[357525]: y, MiLovely, DaLovely, ChaeLovely, TzuLovely","材質：環保超柔親膚抗菌毛絨","高約 22cm 經典便攜擺件尺寸","附帶成員專屬英文燙印吊牌"],purchaseUrl:"
+[357538]: DaLovely, ChaeLovely, TzuLovely","材質：環保超柔親膚抗菌毛絨","高約 22cm 經典便攜擺件尺寸","附帶成員專屬英文燙印吊牌"],purchaseUrl:"https
+[357546]: , ChaeLovely, TzuLovely","材質：環保超柔親膚抗菌毛絨","高約 22cm 經典便攜擺件尺寸","附帶成員專屬英文燙印吊牌"],purchaseUrl:"https://thejypshop.
+[357557]: y, TzuLovely","材質：環保超柔親膚抗菌毛絨","高約 22cm 經典便攜擺件尺寸","附帶成員專屬英文燙印吊牌"],purchaseUrl:"https://thejypshop.com/product/lis
+[357714]: icial Holographic Photocard Binder",nameZh:"TWICE 官方極光鐳射九宮格精裝小卡收納本",priceUsd:19.9,priceTwd:620,category:"accessories
+[357824]: sories",emoji:"📂",status:"In Stock",description:"保護與展示你珍貴自拍周邊小卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收
+[357844]: tatus:"In Stock",description:"保護與展示你珍貴自拍周邊小卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。"
+[357861]: description:"保護與展示你珍貴自拍周邊小卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標
+[357875]: 護與展示你珍貴自拍周邊小卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用
+[357880]: 珍貴自拍周邊小卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁
+[357887]: 卡的最佳利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 
+[357891]: 利器。封面配以華麗防塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)
+[357901]: 塵抗刮透明 PVC 材質與大片經典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚
+[357917]: 典 TWICE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜",
+[357922]: CE 雷射字樣，共含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護
+[357931]: 含有 20 張內頁，可收納高達 160 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","
+[357949]: 0 張小卡。",details:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件
+[357959]: tails:["標準 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件"],purcha
+[357970]: 3 吋迷你小卡適用 (內頁 9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件"],purchaseUrl:"https:
+[357983]:  9cm x 6.5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件"],purchaseUrl:"https://the
+[357991]: .5cm)","無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件"],purchaseUrl:"https://thejypshop
+[357998]: "無酸無光聚丙烯夾層，長期保存不粘卡膜","磁吸式外搭防塵保護帶","附贈「1/100萬 ONCE」限定特製金屬愛心掛件"],purchaseUrl:"https://thejypshop.com/product/twi
+[358215]: aph (9th Design Focus)",nameZh:"TWICE READY TO BE 限量幕後寫真紀實精裝特輯 (Monograph)",priceUsd:38,priceTwd:1180,category:"
+[358336]: oji:"📚",status:"Sold Out",description:"Monograph 代表著 TWICE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海
+[358346]: tatus:"Sold Out",description:"Monograph 代表著 TWICE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張
+[358353]: Sold Out",description:"Monograph 代表著 TWICE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",detail
+[358367]: ription:"Monograph 代表著 TWICE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底
+[358384]: h 代表著 TWICE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底片級藝術紙精裝寫真书","
+[358393]: CE 頂級製作寫真！此本紀錄了從造型會議、MV 現場到巡迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底片級藝術紙精裝寫真书","9 張九人九色特大明信片
+[358421]: 迴演唱會彩排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底片級藝術紙精裝寫真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌
+[358426]: 排的近 150 頁未公開海量照片，附帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底片級藝術紙精裝寫真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘
+[358444]: 帶光碟與專屬九張大卡。",details:["150 頁 A4 超大底片級藝術紙精裝寫真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘)","外附印花磁吸精美防塵收藏天盒"]
+[358462]: ls:["150 頁 A4 超大底片級藝術紙精裝寫真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘)","外附印花磁吸精美防塵收藏天盒"],purchaseUrl:"htt
+[358482]: 術紙精裝寫真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘)","外附印花磁吸精美防塵收藏天盒"],purchaseUrl:"https://th
+[358487]: 真书","9 張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘)","外附印花磁吸精美防塵收藏天盒"],purchaseUrl:"https://thejypsh
+[358493]:  張九人九色特大明信片專屬套票卡","紀錄彩排及未公開音軌花絮精裝 DVD (約 45 分鐘)","外附印花磁吸精美防塵收藏天盒"],purchaseUrl:"https://thejypshop.com/product/twi
+[358691]: lti-Color Logo Eco Canvas Tote Bag",nameZh:"TWICE 經典雙環心心 Logo 環保純棉帆布托特大包",priceUsd:22,priceTwd:680,categor
+[358703]: go Eco Canvas Tote Bag",nameZh:"TWICE 經典雙環心心 Logo 環保純棉帆布托特大包",priceUsd:22,priceTwd:680,category:"apparel",emoj
+[358801]: pparel",emoji:"👜",status:"In Stock",description:"日常通勤、上課或應援狂歡必備的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach 
+[358806]: l",emoji:"👜",status:"In Stock",description:"日常通勤、上課或應援狂歡必備的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Lo
+[358827]: "In Stock",description:"日常通勤、上課或應援狂歡必備的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Logo。",details
+[358839]: escription:"日常通勤、上課或應援狂歡必備的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Logo。",details:["高密度 
+[358846]: ion:"日常通勤、上課或應援狂歡必備的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Logo。",details:["高密度 12 
+[358865]: 的大容量純棉雙扣帆布袋。簡約大方的奶油米白底色，印有俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Logo。",details:["高密度 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺
+[358891]: 俏皮亮眼、象徵 Peach & Apricot 的雙環交織大愛心 Logo。",details:["高密度 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣",
+[358898]:  Peach & Apricot 的雙環交織大愛心 Logo。",details:["高密度 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣","提帶寬度適量，減緩肩部壓
+[358910]: icot 的雙環交織大愛心 Logo。",details:["高密度 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣","提帶寬度適量，減緩肩部壓力負擔"],purchaseUrl:"h
+[358930]: ,details:["高密度 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣","提帶寬度適量，減緩肩部壓力負擔"],purchaseUrl:"https://thejypsh
+[358945]: 12 安厚實耐磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣","提帶寬度適量，減緩肩部壓力負擔"],purchaseUrl:"https://thejypshop.com/pr
+[358952]: 磨環保帆布","內部特別設有拉鏈暗袋及水壺獨立隔層","頂部配有防撬保密金屬按扣","提帶寬度適量，減緩肩部壓力負擔"],purchaseUrl:"https://thejypshop.com/product/twi
+[361793]: :"w-3 h-3 text-purple-600 fill-purple-600/30"})," 擔當 Role"]}),g.jsx("span",{className:"text-xs font-ex
+[362188]: [g.jsx(j5,{className:"w-3 h-3 text-amber-600"})," 出身地 Origin"]}),g.jsx("span",{className:"text-xs font-
+[362591]: Name:"font-semibold text-purple-500",children:"🎂 生日 Birthdate:"}),g.jsx("span",{className:"font-bold 
+[362847]: Name:"font-semibold text-purple-500",children:"📏 身高 Height:"}),g.jsx("span",{className:"font-bold tex
+[363097]: Name:"font-semibold text-purple-500",children:"🩸 血型 Blood Type:"}),g.jsx("span",{className:"font-bold
+[363828]: -widest text-purple-800 uppercase mb-2",children:"主打簡介 Biography"}),g.jsx("p",{className:"text-[13px] le
+[364687]: urple-950 tracking-tight font-display",children:["九位閃耀的",g.jsx("span",{className:"text-purple-600 drop-sh
+[364814]: ne decoration-wavy decoration-pink-400",children:"明星"})," ✨"]}),g.jsx("p",{className:"text-purple-700 
+[364919]: t-medium text-sm max-w-lg mx-auto mt-4",children:"九人九色，每一位都擁有獨一無二的光芒，匯聚在一起便是照亮宇宙的璀璨星辰。"})]}),g.jsx(qt.di
+[364924]: ium text-sm max-w-lg mx-auto mt-4",children:"九人九色，每一位都擁有獨一無二的光芒，匯聚在一起便是照亮宇宙的璀璨星辰。"})]}),g.jsx(qt.div,{variants:o,
+[364938]: x-w-lg mx-auto mt-4",children:"九人九色，每一位都擁有獨一無二的光芒，匯聚在一起便是照亮宇宙的璀璨星辰。"})]}),g.jsx(qt.div,{variants:o,initial:"hidden",
+[369398]: tyle:{backgroundColor:a.color},children:[a.year," 年"]}),g.jsx("span",{className:"text-[11px] text-pur
+[369750]: -widest text-purple-800 uppercase mb-2",children:"專輯大綱 Introduction"}),g.jsx("p",{className:"text-[13px]
+[370177]: .5 h-3.5 text-pink-500"}),g.jsx("span",{children:"收錄曲與傳播連結 Tracklist"})]}),g.jsx("div",{className:"grid grid
+[372161]: urple-950 tracking-tight font-display",children:["經典",g.jsx("span",{className:"text-pink-600 drop-shad
+[372285]:  decoration-wavy decoration-purple-400",children:"音樂作品"})," 🎵"]}),g.jsx("p",{className:"text-purple-700
+[372393]: t-medium text-sm max-w-lg mx-auto mt-4",children:"重溫 TWICE 歷年來的音樂軌跡，點擊專輯卡片可解鎖曲目詳情與官方影片連結！"})]}),g.jsx(
+[372402]: text-sm max-w-lg mx-auto mt-4",children:"重溫 TWICE 歷年來的音樂軌跡，點擊專輯卡片可解鎖曲目詳情與官方影片連結！"})]}),g.jsx(qt.div,{variant
+[372411]: ax-w-lg mx-auto mt-4",children:"重溫 TWICE 歷年來的音樂軌跡，點擊專輯卡片可解鎖曲目詳情與官方影片連結！"})]}),g.jsx(qt.div,{variants:o,initial:"hidden",
+[374145]: ("span",{style:{color:c.color},children:[c.year," 年"]})]})]},c.title+h)})})]}),g.jsx(ow,{album:a,onCl
+[374754]: urple-950 tracking-tight font-display",children:["重要",g.jsx("span",{className:"text-amber-500 drop-sha
+[374879]:  decoration-wavy decoration-purple-400",children:"時刻"})," 📅"]}),g.jsx("p",{className:"text-purple-700
+[374985]: t-medium text-sm max-w-lg mx-auto mt-4",children:"陪伴 TWICE 一路走來，見證她們從青澀出道至加冕世界女團之巔的每一個精彩瞬間。"})]}),g.js
+[374994]: text-sm max-w-lg mx-auto mt-4",children:"陪伴 TWICE 一路走來，見證她們從青澀出道至加冕世界女團之巔的每一個精彩瞬間。"})]}),g.jsx("div",{cl
+[374999]: sm max-w-lg mx-auto mt-4",children:"陪伴 TWICE 一路走來，見證她們從青澀出道至加冕世界女團之巔的每一個精彩瞬間。"})]}),g.jsx("div",{className:"flex flex-col gap-
+[376530]: .filter(p=>p.category===o),m=[{type:"all",nameZh:"全部商品",nameEn:"All Items"},{type:"lightstick",nameZh:"手
+[376583]: 品",nameEn:"All Items"},{type:"lightstick",nameZh:"手燈應援",nameEn:"Lightsticks"},{type:"album",nameZh:"經典專輯
+[376633]: 手燈應援",nameEn:"Lightsticks"},{type:"album",nameZh:"經典專輯",nameEn:"Albums"},{type:"apparel",nameZh:"時尚服飾",n
+[376680]: h:"經典專輯",nameEn:"Albums"},{type:"apparel",nameZh:"時尚服飾",nameEn:"Apparel"},{type:"mascot",nameZh:"Lovelys
