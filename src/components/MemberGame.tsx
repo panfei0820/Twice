@@ -718,8 +718,8 @@ export default function MemberGame() {
                     </div>
                   </div>
 
-                  <div className="border-t border-purple-200/50 mt-4.5 pt-4 text-xs font-bold flex flex-col items-center">
-                    <span className="text-slate-400 text-[9px] block uppercase tracking-wider mb-1.5Packed">ONCE 稱號鑑定</span>
+                  <div className="border-t border-purple-200/50 mt-4 pt-4 text-xs font-bold flex flex-col items-center">
+                    <span className="text-slate-400 text-[9px] block uppercase tracking-wider mb-1.5">ONCE 稱號鑑定</span>
                     
                     {roundScore === 50 ? (
                       <div className="text-emerald-700 bg-emerald-50 border border-emerald-200 py-2 px-4 rounded-xl">
