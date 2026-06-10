@@ -47,7 +47,7 @@ export default function Hero() {
         </motion.h1>
 
         <motion.p 
-          initial={{ opacity: 0, y: 5 }}
+          initial={{ opacity: 0, scale: 0.98, y: 5 }}
           animate={{ 
             opacity: [0.8, 1, 0.8],
             scale: [0.98, 1, 0.98],
