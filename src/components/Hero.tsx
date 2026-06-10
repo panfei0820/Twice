@@ -47,18 +47,16 @@ export default function Hero() {
         </motion.h1>
 
         <motion.p 
-          initial={{ opacity: 0, scale: 0.95, y: 5 }}
+          initial={{ opacity: 0, y: 5 }}
           animate={{ 
             opacity: [0.8, 1, 0.8],
             scale: [0.98, 1, 0.98],
             y: [0, -3, 0]
           }}
           transition={{ 
-            opacity: { repeat: Infinity, duration: 4, ease: "easeInOut" },
-            scale: { repeat: Infinity, duration: 4, ease: "easeInOut" },
-            y: { repeat: Infinity, duration: 4, ease: "easeInOut" },
-            delay: 0.45,
-            duration: 0.5
+            repeat: Infinity,
+            duration: 4,
+            ease: "easeInOut"
           }}
           className="text-lg sm:text-2xl text-purple-950 font-black mt-6 tracking-[8px] sm:tracking-[12px] uppercase select-none translate-x-[4px] pl-[4px] notranslate"
           translate="no"
