@@ -31,25 +31,43 @@ interface Question {
   bioSentenceUsed?: string;
 }
 
+// Safe LocalStorage helper guarding against iFrame Sandbox / Third-Party Security restrictions
+const safeStorage = {
+  getItem: (key: string): string | null => {
+    try {
+      return localStorage.getItem(key);
+    } catch {
+      return null;
+    }
+  },
+  setItem: (key: string, value: string): void => {
+    try {
+      localStorage.setItem(key, value);
+    } catch {
+      // safe no-op inside restricted sandboxes
+    }
+  }
+};
+
 export default function MemberGame() {
   // Scoreboard state with LocalStorage persistence
   const [cumulativeScore, setCumulativeScore] = useState<number>(() => {
-    const saved = localStorage.getItem('twice_game_score');
+    const saved = safeStorage.getItem('twice_game_score');
     return saved ? parseInt(saved, 10) : 0;
   });
   
   const [streak, setStreak] = useState<number>(() => {
-    const saved = localStorage.getItem('twice_game_streak');
+    const saved = safeStorage.getItem('twice_game_streak');
     return saved ? parseInt(saved, 10) : 0;
   });
 
   const [highestStreak, setHighestStreak] = useState<number>(() => {
-    const saved = localStorage.getItem('twice_game_highest_streak');
+    const saved = safeStorage.getItem('twice_game_highest_streak');
     return saved ? parseInt(saved, 10) : 0;
   });
 
   const [gamesPlayed, setGamesPlayed] = useState<number>(() => {
-    const saved = localStorage.getItem('twice_games_played');
+    const saved = safeStorage.getItem('twice_games_played');
     return saved ? parseInt(saved, 10) : 0;
   });
 
@@ -70,19 +88,19 @@ export default function MemberGame() {
 
   // Sync state helpers to localStorage
   useEffect(() => {
-    localStorage.setItem('twice_game_score', cumulativeScore.toString());
+    safeStorage.setItem('twice_game_score', cumulativeScore.toString());
   }, [cumulativeScore]);
 
   useEffect(() => {
-    localStorage.setItem('twice_game_streak', streak.toString());
+    safeStorage.setItem('twice_game_streak', streak.toString());
   }, [streak]);
 
   useEffect(() => {
-    localStorage.setItem('twice_game_highest_streak', highestStreak.toString());
+    safeStorage.setItem('twice_game_highest_streak', highestStreak.toString());
   }, [highestStreak]);
 
   useEffect(() => {
-    localStorage.setItem('twice_games_played', gamesPlayed.toString());
+    safeStorage.setItem('twice_games_played', gamesPlayed.toString());
   }, [gamesPlayed]);
 
   // Audio synthesizer utilizing the Web Audio API
@@ -221,7 +239,7 @@ export default function MemberGame() {
       setStreak(newStreak);
       if (newStreak > highestStreak) {
         setHighestStreak(newStreak);
-        localStorage.setItem('twice_game_highest_streak', newStreak.toString());
+        safeStorage.setItem('twice_game_highest_streak', newStreak.toString());
         
         // Show unlocked achievement milestone
         if (newStreak === 3 || newStreak === 5 || newStreak === 10) {
@@ -486,10 +504,10 @@ export default function MemberGame() {
                             src={currentQuestion.correctAnswer.imageUrl} 
                             alt="Who is this?"
                             referrerPolicy="no-referrer"
-                            className="w-full h-full object-cover select-none pointer-events-none transition-all duration-500"
+                            className="w-full h-full object-cover select-none pointer-events-none transition-all duration-550 ease-out"
                             style={{ 
-                              filter: 'none',
-                              transform: 'scale(1)'
+                              filter: answerSelected ? 'none' : `blur(${blurLevel}px) brightness(0.25) contrast(1.4)`,
+                              transform: answerSelected ? 'scale(1)' : 'scale(1.05)'
                             }}
                           />
                         ) : (
