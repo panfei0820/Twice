@@ -6,7 +6,7 @@ async function run() {
     const text = await res.text();
     
     // Custom TWICE components will render JSX (g.jsx or g.jsxs) AND contain Chinese characters or TWICE keywords like "Members", "ONCE", "CANDYBONG"
-    const results: string[] = [];
+    const results = [];
     const regex = /function\s+([a-zA-Z0-9$_]+)\s*\(([^)]*)\)\s*\{/g;
     let match;
     while ((match = regex.exec(text)) !== null) {
