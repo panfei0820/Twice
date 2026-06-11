@@ -10,25 +10,60 @@ async function run() {
     console.log(`[Remote Fetch] Fetching main page to resolve active asset name: ${baseUrl}/`);
     
     try {
-      const mainRes = await fetch(baseUrl + '/');
+      const mainRes = await fetch(baseUrl + '/', {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+        }
+      });
+      
       if (mainRes.ok) {
         const htmlText = await mainRes.text();
         
-        // Look for /assets/index-xxxxxxxx.js in the HTML source via regex
-        const assetRegex = /\/assets\/index-[a-zA-Z0-9_-]+\.js/i;
-        const assetMatch = htmlText.match(assetRegex);
+        // Multi-strategy regex to match any Vite index.js bundle:
+        // Strategy A: matches standard script src paths (e.g., /assets/index-DYzKjjEB.js, assets/index.123456.js, etc.)
+        // Strategy B: matches modulepreload href links
+        // Strategy C: fallback basic match anywhere in text
+        const assetRegexes = [
+          /src=["']([^"']*(?:assets\/index[-.][a-zA-Z0-9_-]+\.js|index[-.][a-zA-Z0-9_-]+\.js))["']/i,
+          /href=["']([^"']*(?:assets\/index[-.][a-zA-Z0-9_-]+\.js|index[-.][a-zA-Z0-9_-]+\.js))["']/i,
+          /(?:assets\/|(?<=['"/]))index[-.][a-zA-Z0-9_-]+\.js/i
+        ];
+        
+        let matchedPath = '';
+        for (const regex of assetRegexes) {
+          const match = htmlText.match(regex);
+          if (match) {
+            // Take captured group if exists, or entire match
+            matchedPath = match[1] || match[0];
+            break;
+          }
+        }
         
         let jsUrl = '';
-        if (assetMatch) {
-          jsUrl = baseUrl + assetMatch[0];
+        if (matchedPath) {
+          // Resolve URL dynamically (supporting both absolute and relative URLs)
+          if (matchedPath.startsWith('http://') || matchedPath.startsWith('https://')) {
+            jsUrl = matchedPath;
+          } else if (matchedPath.startsWith('//')) {
+            jsUrl = 'https:' + matchedPath;
+          } else {
+            // Build absolute URL using standard native URL class
+            jsUrl = new URL(matchedPath, baseUrl).toString();
+          }
           console.log(`[Remote Fetch] Resolved JS Asset URL dynamically: ${jsUrl}`);
         } else {
-          console.log(`[Remote Fetch] Could not find dynamic index JS asset in HTML, using default fallback path`);
+          console.log(`[Remote Fetch] Could not find dynamic index JS asset in HTML. Attempting default fallback path.`);
           jsUrl = `${baseUrl}/assets/index-DYzKjjEB.js`;
         }
 
         console.log(`[Remote Fetch] Fetching script: ${jsUrl}`);
-        const res = await fetch(jsUrl);
+        const res = await fetch(jsUrl, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+          }
+        });
+        
         if (res.ok) {
           text = await res.text();
           console.log(`[Remote Fetch] Downloaded script (${text.length} characters)`);
